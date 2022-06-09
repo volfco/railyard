@@ -1,0 +1,16 @@
+{
+  "steps": {
+    "type": "Branch",
+    "base": {
+      "type": "BoxcarJob",
+      "task": {
+        "method": "foo.bar",
+        "arguments": {
+          "key": "value"
+        }
+      }
+    },
+    "left": {},
+    "right": {}
+  }
+}

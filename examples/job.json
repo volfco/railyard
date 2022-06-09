@@ -1,0 +1,36 @@
+{
+  "name": "my-job",
+  "tree": {
+    "Branch": [
+      {
+        "Single": {
+          "method": "hello-world",
+          "arguments": null,
+          "resources": {},
+          "policy": null,
+          "raw": null
+        }
+      },
+      {
+        "Single": {
+          "method": "hello-world",
+          "arguments": null,
+          "resources": {},
+          "policy": null,
+          "raw": null
+        }
+      },
+      {
+        "Single": {
+          "method": "hello-world",
+          "arguments": null,
+          "resources": {},
+          "policy": null,
+          "raw": null
+        }
+      }
+    ]
+  },
+  "policy": null,
+  "constraints": null
+}
